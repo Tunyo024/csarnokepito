@@ -2,9 +2,11 @@
     box-sizing: border-box;
   }
   .iskola {
+      padding: 30px;
       color: red;
       font-size: 24px;
       text-align: center;
+      background: #ec9e28;
   }
   /* Style the body */
   body {
