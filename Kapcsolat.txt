@@ -1,3 +1,0 @@
-<html>
-<a href = "Csarnok.html">Főlap</a>
-<html>
