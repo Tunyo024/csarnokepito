@@ -5,7 +5,7 @@
     font-family: Arial;
     margin: 0;
   }
-  .rolunkszoveg {
+  .szoveg {
     font-size: large;
     text-align: center;
   }
@@ -116,8 +116,5 @@
     table{
       border-spacing: 10px 10px;
       font-size: 18px;
-    }
-    .kapcsolatszoveg {
-      font-size: 20px;
     }
   }
